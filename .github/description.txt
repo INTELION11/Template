@@ -1,0 +1,6 @@
+- list of current known ussues
+- list of wanted features
+- instructions for submitting pull requests
+- background program info needed for big industry project (funding,sponsor,company info, etc)
+- release note (diferent versions of projects and what are difrent from each)
+- github repository info (includes passwords/private info not for github)

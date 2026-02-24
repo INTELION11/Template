@@ -23,3 +23,6 @@ How to install the exe(run file) for the project
 
 ## License information
 - Does not belong to us, it is owned by the school so license does not apply to use currently
+
+## Contributions
+- How to contribute to project
